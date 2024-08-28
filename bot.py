@@ -6,7 +6,7 @@ import subprocess
 import os
 
 # Replace 'YOUR_API_TOKEN' with your actual bot API token
-API_TOKEN = '7317869421:AAFESAqGFnTd00Tu_YipsQE_mNciSr4Lz5s'
+API_TOKEN = 'YOUR_API_TOKEN'
 
 # Configure logging
 logging.basicConfig(
